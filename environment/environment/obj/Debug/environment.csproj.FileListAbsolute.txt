@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\environment\environment\bin\Debug\environment.exe.config
+C:\Users\1\source\repos\environment\environment\bin\Debug\environment.exe
+C:\Users\1\source\repos\environment\environment\bin\Debug\environment.pdb
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.Form1.resources
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.Properties.Resources.resources
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.csproj.GenerateResource.cache
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.exe
+C:\Users\1\source\repos\environment\environment\obj\Debug\environment.pdb
